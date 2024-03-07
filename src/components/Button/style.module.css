@@ -1,0 +1,20 @@
+.wrapper {
+  width: 17rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 1em;
+  font-size: 0.9em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #5c5c5c;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  transition: border-color 0.25s;
+  text-decoration: none;
+}
+.wrapper:hover {
+  border-color: #027007;
+  background-color: #c3f83b;
+  color: black;
+  transition: 0.5s;
+}

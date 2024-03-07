@@ -1,0 +1,16 @@
+* { 
+ font-family: "Inter", sans-serif;
+ letter-spacing: 2px;
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  background-color: #1B1B1B ;
+  min-height: 100vh;
+}
+
+
